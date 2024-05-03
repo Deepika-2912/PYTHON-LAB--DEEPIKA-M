@@ -1,17 +1,14 @@
 from datetime import date
-
-  dt1=date(
+dt1=date(
      year=2024,
      month=5,
      day=3
 )
 
-  dt2=date(
+dt2=date(
      year=2024,
      month=8,
      day=10
 )
-
 ndays=abs((dt2-dt1).days)
-
 print(ndays)
