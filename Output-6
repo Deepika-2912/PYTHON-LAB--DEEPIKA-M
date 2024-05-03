@@ -1,0 +1,6 @@
+List of tuples containing name, roll number, and marks:
+[('Abi', 8286, 59), ('Banu', 9863, 59), ('Charlie', 9902, 27), ('David', 2946, 38), ('Eve', 3080, 61)]
+
+Tuple containing all names: ('Abi', 'Banu', 'Charlie', 'David', 'Eve')
+Tuple containing all roll numbers: (8286, 9863, 9902, 2946, 3080)
+Tuple containing all marks: (59, 59, 27, 38, 61)
